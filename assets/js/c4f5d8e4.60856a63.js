@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkjc_community_site=globalThis.webpackChunkjc_community_site||[]).push([[52634],{92157(i,e,t){t.r(e),t.d(e,{default:()=>r});var a=t(56347),c=t(74848);function r(){return(0,c.jsx)(a.rd,{to:"/jc-community-archive/general/a-priority-matrix-makes-it-run-like-a-well-oiled-machine"})}}}]);
