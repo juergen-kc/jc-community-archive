@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjc_community_site=globalThis.webpackChunkjc_community_site||[]).push([[52634],{92157(c,t,i){i.r(t),i.d(t,{default:()=>u});var e=i(56347),s=i(74848);function u(){return(0,s.jsx)(e.rd,{to:"/jc-community-archive/best-practices"})}}}]);
