@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjc_community_site=globalThis.webpackChunkjc_community_site||[]).push([[52634],{92157(i,t,u){u.r(t),u.d(t,{default:()=>r});var c=u(56347),n=u(74848);function r(){return(0,n.jsx)(c.rd,{to:"/jc-community-archive/general/10-06-2023-it-hour-transcript-introducing-jumpcloud-university-s"})}}}]);

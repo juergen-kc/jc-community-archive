@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkjc_community_site=globalThis.webpackChunkjc_community_site||[]).push([[52634],{92157(c,t,e){e.r(t),e.d(t,{default:()=>n});var i=e(56347),u=e(74848);function n(){return(0,u.jsx)(i.rd,{to:"/jc-community-archive/general"})}}}]);
